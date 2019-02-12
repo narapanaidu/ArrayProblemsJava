@@ -1,11 +1,11 @@
 class Main{
   public static void main(String[] args){
     
-    //calling and printing result from ReverseStringone
+    //calling and printing result from ReverseStringone method
     String resultone = ReverseStringone("hello");
     System.out.println(resultone);
     
-    //calling and printing result from ReverseStringtwo
+    //calling and printing result from ReverseStringtwo method
     String resulttwo = ReverseStringtwo("hello");
     System.out.println(resulttwo);
   }
